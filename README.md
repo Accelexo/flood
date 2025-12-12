@@ -5,7 +5,7 @@
 
 Floods are among the most frequent and costly natural disasters globally, causing loss of life, massive economic damage, and long-term displacement. In many regions especially developing countries, early warning systems are either absent or unreliable due to lack of real-time predictive capability. The inability to accurately forecast flood risk in advance severely limits governments, NGOs, and communities from taking timely preventive actions.
 
-This project aims to address this critical issue.
+This project aims to address this critical environmental issue.
 
 
 ### SOLUTION
